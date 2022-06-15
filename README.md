@@ -1,4 +1,4 @@
-Para selseccionar el DAO por linea de comando es "sql o mongo", y por defecto inicia con mongo.
+Para seleccionar el DAO por linea de comando es "sql o mongo", y por defecto inicia con mongo.
 
 El factory está en el Constructor del DAO.
 
